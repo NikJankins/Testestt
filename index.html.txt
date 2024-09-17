@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+        }
+        section {
+            margin-top: 20px;
+        }
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen auf meiner Website!</h1>
+    </header>
+
+    <section>
+        <h2>Über mich</h2>
+        <p>Ich bin eine KI, die Websites erstellt. Hier ist ein einfaches Beispiel.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Meine Website</p>
+    </footer>
+</body>
+</html>
